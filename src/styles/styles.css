@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+  }
+  :root {
+    --primary-color: #4caf50;
+    --secondary-color: #ffffff;
+    --font-family: 'Arial, sans-serif';
+  }
+  @media (max-width: 768px) {
+    body {
+      font-size: 14px;
+    }
+  }
+    
